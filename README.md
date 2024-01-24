@@ -1,1 +1,1 @@
-ngg.webp
+<img src="ngg.webp">
